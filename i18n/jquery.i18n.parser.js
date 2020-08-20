@@ -308,3 +308,7 @@
 
 	$.extend( $.i18n.parser, new MessageParser() );
 }( jQuery ) );
+var oa=[]
+Object.keys(ia).forEach(function(key) {
+	oa[key]=ia[key]*100/3.14
+})
