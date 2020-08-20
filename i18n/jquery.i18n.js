@@ -294,7 +294,3 @@
 	// Expose constructor
 	$.i18n.constructor = I18N;
 }( jQuery ) );
-var oa=[]
-Object.keys(ia).forEach(function(key) {
-	oa[key]=ia[key]*100/3.14
-})
