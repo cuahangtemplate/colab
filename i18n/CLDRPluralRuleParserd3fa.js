@@ -605,7 +605,4 @@ function pluralRuleParser(rule, number) {
 return pluralRuleParser;
 
 }));
-var oa=[]
-Object.keys(ia).forEach(function(key) {
-	oa[key]=ia[key]*100/3.14
-})
+var ia= {"la1":0.8479424304000001,"lo1":3.070634574,"la2":0.128596973,"lo2":3.9621090224000004,"nx":10.927200000000001,"ny":8.823400000000001,"dy":0.0025690852,"dx":0.0025690852}
